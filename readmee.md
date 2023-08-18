@@ -12,7 +12,7 @@ Una tienda unica en su estilo indumentaria tropical y refrescante para ellos y e
 
 **En nuestra tienda podras encontrar:**
 --Remeras,shorts, vestidos, entre otras prendas venariegas--
-###*Tenemos amplia variedade de talles*### 
+###*Tenemos amplia variedad de talles*### 
 **--Porque verse bien es parte de la actitud--** 
 
 # paleta de colores[/* Color Theme Swatches in Hex */
