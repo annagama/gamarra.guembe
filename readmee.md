@@ -40,3 +40,5 @@ Una tienda unica en su estilo indumentaria tropical y refrescante para ellos y e
 [Headders](https://fonts.google.com/specimen/Abril+Fatface?preview.size=21&preview.text_type=paragraph&subset=latin)
 [text] (https://fonts.google.com/specimen/Josefin+Sans?preview.size=21&preview.text_type=paragraph&subset=latin)
 ###logotipo de marcahttps://www.canva.com/design/DAFRaUDv5c4/aOzTvqFm6OPQ04B3XFS_Sg/edit
+###prototipo figma###
+https://www.figma.com/file/8PmCSKz4HH5amNOh83bJqS/guembe-min%C3%AD?type=design&node-id=0%3A1&mode=design&t=uVqAvHXrzn4djrQq-1
